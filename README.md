@@ -1,16 +1,23 @@
-## Hi there 👋
+# Presentation
+😃 Hi, my name is Spooky.
 
-<!--
-**Spookiki/spookiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I program mainly in Java, for Minecraft plugins.
 
-Here are some ideas to get you started:
+🗨️ If you want to chat, you only can on Discord. (@spookiki)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎈 If you haves questions about my projects, i will respond quickly to it.
+
+## 🛠 Technologies & tools
+
+![Code](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Code&logoColor=white&color=2bbc8a)
+
+## 💻 Current project
+
+- [ZX UHC](https://github.com/Spookiki/zx-uhc-rework)
+
+## 📈 Stats
+
+[![wakatime](https://wakatime.com/badge/user/50c7d9f2-e3a9-4f26-9566-3446c4736f17.svg)](https://wakatime.com/@50c7d9f2-e3a9-4f26-9566-3446c4736f17)
+
+![Smaug GitHub stats](https://github-readme-stats.vercel.app/api?username=Spookiki&show_icons=true&theme=radical)
+
